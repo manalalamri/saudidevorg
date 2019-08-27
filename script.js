@@ -1,1 +1,8 @@
-document.write ("Hello, this is my first challenge and I will do it 10 times.I will do it, I will learn JavaScript.")
+function programers_names(){ //test is the identifier which identifyies the function's name 
+  programers_names = ["Manal", "Hind", "Hissa"]; //programers_names is the identifier
+document.write(programers_names);
+}
+//call the function
+programers_names();
+  
+
